@@ -1,0 +1,12 @@
+<project name="My PHD" version="docear 1.0" ID="16B61E2B2C79A1TO1CJ3Y082H17371V755VL">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://16B61E2B2C79A1TO1CJ3Y082H17371V755VL/_data/16B61E2B2C79A1TO1CJ3Y082H17371V755VL/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://16B61E2B2C79A1TO1CJ3Y082H17371V755VL/_data/16B61E2B2C79A1TO1CJ3Y082H17371V755VL/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://16B61E2B2C79A1TO1CJ3Y082H17371V755VL/_data/16B61E2B2C79A1TO1CJ3Y082H17371V755VL/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://16B61E2B2C79A1TO1CJ3Y082H17371V755VL/_data/16B61E2B2C79A1TO1CJ3Y082H17371V755VL/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/C:/Users/LutPC/Desktop/Lutonin_PHD/Docear//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://16B61E2B2C79A1TO1CJ3Y082H17371V755VL/_data/16B61E2B2C79A1TO1CJ3Y082H17371V755VL/default_files/My%20PHD.bib" system="true"/>
+</project>
